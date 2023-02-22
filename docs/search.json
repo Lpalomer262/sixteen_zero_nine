@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2023-02-21T22:15:23-07:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Sixteen Zero Nine",
+      "author": [],
+      "contents": "\n\n          \n          \n          Sixteen Zero Nine\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Sixteen Zero Nine\n          \n          \n            \n              I am a classically trained data scientist living in the\n              Denver Colorado. Currently I work on the Oculus team at\n              Facebook. I love talking about baseball, true crime\n              podcasts, and causal inference.\n            \n            \n              I am a classically trained data scientist living in the\n              Denver Colorado. Currently I work on the Oculus team at\n              Facebook. I love talking about baseball, true crime\n              podcasts, and causal inference.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-02-21T22:15:23-07:00"
+    }
+  ],
+  "collections": []
+}
