@@ -3,10 +3,19 @@ title: "Sixteen Zero Nine"
 description: |
   Sixteen Zero Nine
 output_dir: "docs"
+theme: sixteen_zero_nine.css
 navbar:
   right:
-    - text: "Home"
-      href: index.html
     - text: "About"
       href: about.html
+    - text: "Travel"
+      href: travel.html 
+    - text: "Running"
+      href: running.html
+    - text: "Articles"
+      menu:
+        - text: "World Baseball Classic - Mexico vs Colombia"
+        - href: wbc_mexico_colombia.html
+        - text: "World Baseball Classic - USA vs Great Britain"
+        - href: wbc_usa_great_britain.html
 output: distill::distill_article

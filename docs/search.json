@@ -6,14 +6,57 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2023-02-21T22:15:23-07:00"
+      "last_modified": "2023-03-23T21:53:08-06:00"
     },
     {
       "path": "index.html",
-      "title": "Sixteen Zero Nine",
       "author": [],
-      "contents": "\n\n          \n          \n          Sixteen Zero Nine\n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            Sixteen Zero Nine\n          \n          \n            \n              I am a classically trained data scientist living in the\n              Denver Colorado. Currently I work on the Oculus team at\n              Facebook. I love talking about baseball, true crime\n              podcasts, and causal inference.\n            \n            \n              I am a classically trained data scientist living in the\n              Denver Colorado. Currently I work on the Oculus team at\n              Facebook. I love talking about baseball, true crime\n              podcasts, and causal inference.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2023-02-21T22:15:23-07:00"
+      "contents": "\n\n          \n          \n          Sixteen Zero Nine\n          \n          \n          About\n          Travel\n          Running\n          \n          \n          Articles\n           \n          ▾\n          \n          \n          World Baseball Classic - Mexico vs Colombia\n          \n          World Baseball Classic - USA vs Great Britain\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            \n          \n          \n            \n              A classically trained data scientist located in Denver,\n              Colorado. Experienced consultant with a probabilistic\n              mindset, Leonardo brings a diverse of expertise spanning\n              multiple sector. Passionate in running, baseball, and\n              education, along with insights that data can reveal about\n              them.\n            \n            \n              A classically trained data scientist located in Denver,\n              Colorado. Experienced consultant with a probabilistic\n              mindset, Leonardo brings a diverse of expertise spanning\n              multiple sector. Passionate in running, baseball, and\n              education, along with insights that data can reveal about\n              them.\n            \n          \n\n          \n            \n              \n                  \n                    \n                       LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                       Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                       GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                       Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                     LinkedIn\n                  \n                \n                                \n                  \n                     Twitter\n                  \n                \n                                \n                  \n                     GitHub\n                  \n                \n                                \n                  \n                     Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2023-03-23T21:53:09-06:00"
+    },
+    {
+      "path": "running.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-03-23T21:53:10-06:00"
+    },
+    {
+      "path": "travel.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2023-03-23T21:53:11-06:00"
+    },
+    {
+      "path": "wbc_mexico_colombia.html",
+      "title": "Untitled",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\nMexico has traditionally been a strong baseball nation, with a deep pool of talented players both domestically and abroad. Their roster for the 2023 World Baseball Classic is no exception, featuring a number of Major League Baseball (MLB) stars, including pitchers Julio Urías and Marco Estrada, and outfielder Alex Verdugo.\nIn addition to their MLB talent, Mexico also boasts a strong domestic league in the Liga Mexicana de Beisbol, which has produced a number of players who have gone on to play professionally in the US and elsewhere. This gives them a deep pool of talent to draw from, and allows them to field a team with a mix of experienced veterans and up-and-coming young players.\nMexico’s strengths on the field include a strong pitching staff, led by Urías and Estrada, who have both been successful at the MLB level. They also have a number of power hitters, including Verdugo and infielder Luis Urías, who can change the game with one swing of the bat.\nIn their opening game of the 2023 World Baseball Classic, Colombia beat Mexico 5-4 in an extra-innings thriller. Reynaldo Rodriguez led Colombia with a two-run home run in the 5th inning and a go-ahead RBI single in the 7th inning. The game started as a pitching duel, but turned into a shootout before returning to a pitching duel. Colombia had to use multiple pitchers, but they have a day off to recover, while Mexico will need to use their pitchers again in their upcoming game against the USA. If either team loses to Canada or Great Britain, their campaign could end.\n\n\n\n",
+      "last_modified": "2023-03-23T21:53:12-06:00"
+    },
+    {
+      "path": "wbc_usa_great_britain.html",
+      "title": "Untitled",
+      "author": [],
+      "date": "`r Sys.Date()`",
+      "contents": "\n\nCertainly. In the first game of Pool C at the 2023 World Baseball Classic, the United States faced off against Great Britain, and the Americans came away with a convincing 6-2 victory. The United States had a potent lineup on paper, and in practice, they proved it, with multiple players delivering strong performances.\nKyle Schwarber was a standout player for the United States, hitting a three-run homer that sailed past the pool beyond the right-center-field fence. The crowd of 39,650 at Chase Field erupted into cheers as Schwarber crossed home plate and high-fived Mike Trout and Paul Goldschmidt. Nolan Arenado was also a major contributor to the American victory, collecting three hits and two RBIs, including a pair of RBI doubles.\nAlthough Great Britain got off to a good start with Trayce Thompson hitting a homer off Adam Wainwright in the first inning, the United States quickly responded and took control of the game. Wainwright pitched four innings, giving up one run and five hits, and the bullpen trio of Jason Adam, Kyle Freeland, and David Bednar finished the game strongly, allowing just three hits while striking out six.\nFormer big league pitcher Vance Worley gave up two unearned runs over 2 2/3 innings for Great Britain. Thompson, who tied his career high with 13 homers last season for the Dodgers, finished with two hits.\n\n\n\n",
+      "last_modified": "2023-03-23T21:53:13-06:00"
     }
   ],
   "collections": []
